@@ -1,2 +1,2 @@
 # aparat_playlist_downloader
-Playlist Downloader from Aparat.com
+This python script helps you to download your favourite playlist files from aparat.com
